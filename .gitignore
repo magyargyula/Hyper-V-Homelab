@@ -1,0 +1,23 @@
+# Virtual Machine files (large binaries)
+*.vhd
+*.vhdx
+*.avhd
+*.avhdx
+*.iso
+
+# Hyper-V configuration backups
+*.exp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+*.txt
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
