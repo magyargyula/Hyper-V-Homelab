@@ -263,4 +263,10 @@ Ez a projekt az alábbi IT üzemeltetési készségeket fejleszti:
 
 ---
 
+## 🤖 AI-asszisztált fejlesztés
+
+Ez a projekt AI-asszisztált fejlesztéssel készült (Claude, Anthropic). A tervezés, döntések és végrehajtás a szerző munkája, az AI kódolási és dokumentációs segédeszközként szolgált.
+
+---
+
 *Ez a projekt tanulási és portfólió célokat szolgál.*
